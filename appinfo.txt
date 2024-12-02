@@ -1,0 +1,8 @@
+# About the Application
+
+This application predicts market fluctuations using advanced data analysis techniques. It leverages historical data and modern algorithms to provide insights and forecasts for market trends.
+
+Key Features:
+- Historical market analysis.
+- Trend prediction algorithms.
+- User-friendly visualization tools.
